@@ -8,8 +8,4 @@
     3- JavaScript
 ```
 
-```
-#100DaysOfCode Challange
-```
-
-##### Demo: https://dasilvabrunotexas.github.io/custom-video-player/
+##### Demo: https://dasilvabrunotexas.github.io/VideoSpeedController/
