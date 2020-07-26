@@ -9,4 +9,4 @@
 
 ```
 
-##### Demo: https://dasilvabrunotexas.github.io/VideoSpeedController/
+### Demo: https://brunno-dasilva.github.io/VideoSpeedController/
